@@ -1,7 +1,8 @@
 # ChatSet
-It is a Real-time chat application 💬 with rooms build by socket.io and node js, express
+It is a Real-time chat application 💬 with rooms build in socket.io and node js, express
 
 ### Steps to run:
+* -``` Install node in your system ```
 * -``` npm i ```
 * -``` npm run start ```
 * -``` Go to localhost:9000 in your browser```
