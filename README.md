@@ -4,7 +4,7 @@ It is a Real-time chat application 💬 with rooms build by socket.io and node j
 ### Steps to run:
 * -``` npm i ```
 * -``` npm run start ```
-* -``` Go to localhost:9000 ```
+* -``` Go to localhost:9000 in your browser```
 
 ## Images
 
