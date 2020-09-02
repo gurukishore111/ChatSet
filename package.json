@@ -1,0 +1,17 @@
+{
+  "name": "chat-set",
+  "version": "1.0.0",
+  "description": "group chat app using the socket and express ,node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Guru Kishore",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "socket.io": "^2.3.0"
+  }
+}
